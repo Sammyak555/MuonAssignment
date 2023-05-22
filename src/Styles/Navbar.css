@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.navbarBox{
+    /* border: 1px solid red; */
+    /* Rectangle 3653 */
+height: 36.48px;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Buffer blue  */
+
+background: #3772FF;
+}
+
+.navbarHeading{
+    position: absolute;
+left: 27.99%;
+right: 27.99%;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+
+text-align: center;
+justify-content: center;
+align-items: center;
+/* white */
+
+color: #FFFFFF;
+}
